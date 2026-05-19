@@ -1,0 +1,2 @@
+<h3>Career Objective</h3>
+<p>To acquire an entry-level position in front-end web development where I can leverage my foundational skills in HTML, CSS, and modern server-side scripting to deploy highly maintainable applications.</p>
